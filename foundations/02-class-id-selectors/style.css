@@ -6,3 +6,8 @@ p {
 .med-font {
     font-size: 24px;
 }
+
+#big-blue {
+    font-size: 36px;
+    color: #0000ff;
+}
