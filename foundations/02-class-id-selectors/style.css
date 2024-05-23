@@ -11,3 +11,8 @@ p {
     font-size: 36px;
     color: #0000ff;
 }
+
+#bold-green {
+    background-color: #90ee90;
+    font-weight: bold;
+}
