@@ -9,4 +9,7 @@
     background-color: black;
     font-weight: bold;
 }
+
+.no-click-me {
+    background-color: yellow;
 }
